@@ -1,0 +1,8 @@
+Sorting by insertSort:
+Spins of loop: 1391
+Execution time was under 1 s
+===============================
+Sorting by bubbleSort:
+Spins of loop: 6889
+Execution time was under 1 s
+===============================
