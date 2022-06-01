@@ -1,5 +1,5 @@
 # Sorting-Algorithms
-Simple program that sorts numbers by 5 different algorithms
+Simple program that sorts numbers with 1 selected algorithm out of 5.
 # Starting the Sorting program
 Before you start the program, you must enter a number set in each line individually, after the number in the data.txt file
 # How to use the program
